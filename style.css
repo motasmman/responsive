@@ -1,0 +1,178 @@
+body{
+    margin: 0 auto;
+}
+
+header{
+    background-color: #b11b63;
+    height: 300px;
+
+}
+
+.ma{
+   margin-left: 190px;
+   padding: 15px;
+}
+.dd{
+    float: right;
+}
+ul{
+    list-style-type: none ;
+    
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 50px;
+    
+    
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+h2{
+    text-align: center;
+    color:white;
+}
+h4{
+    text-align-last: center;
+    color: white;
+
+}
+
+#middel {
+text-align: center;
+background-color: white;
+width: 100%;
+}
+
+.images {
+    display: inline-block;
+    width: 25%;
+}
+.ttt{
+    position: relative;
+    bottom: 31px;
+    left: 1px;
+    
+}
+.images{
+    display:inline-block;
+    width: 25%;
+}
+.pic{
+    border-radius: 50%;
+    width: 160px;
+}
+#bottom{
+    text-align: center;
+}
+.pics{
+    position: relative;
+    bottom: 66px;
+    width: 20px
+}
+.max{
+    text-align: center;
+    margin: 30px;
+    padding: 15px;
+    
+}
+.max img{
+    width: 150px;
+    height:auto ;
+}
+.momo {
+    position: relative;
+    margin: 60px; 
+}
+
+#kheer {
+margin: 0px;
+padding: 5px;   
+background-color: #d12779;
+
+
+}
+.meer h2{
+color: blue;
+}
+
+ .ppp h2{
+    margin: -295px;
+    position: relative;
+}
+.orl{
+    margin: 20%;
+    padding: 20px;
+    width: 0%;
+}
+
+#iii{
+position: relative;
+height: 40%;
+padding: 5px;
+text-align: center;
+margin-left: 313px;
+width: 25%;
+}
+
+input[type=text], select, textarea {
+    width: 70%;
+    padding: 13px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: -7px;
+    margin-bottom: 11px;
+    display: inline;
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 13px 84px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 77px;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    text-align: center;
+    width: 50%;
+    float: left;
+    display: inline-block;
+    
+
+}
+
+.label {
+     position: relative;
+    bottom: 60px;
+    left: 1px; 
+}
+
+#subject {
+    height: 40px;
+    position: relative;
+    right: -12px;
+}
+
+form label {
+    display: inline;
+}
+
+footer {
+    display: inline-block;
+    width: 100%;
+}
